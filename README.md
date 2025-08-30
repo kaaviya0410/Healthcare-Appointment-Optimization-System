@@ -1,4 +1,4 @@
-#Healthcare Appointment Optimization System
+# Healthcare Appointment Optimization System
 
 An optimized appointment scheduling system for a healthcare clinic designed to reduce patient no-shows and improve doctor utilization. The system tracks appointments, cancellations, and generates actionable insights for clinic management.
 
